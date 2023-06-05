@@ -1,0 +1,167 @@
+[
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "So we arrived there with Italian seeds in southern Zambia in this absolutely magnificent valley going down to the Zambezi River , and we taught the local people how to grow Italian tomatoes and zucchini and ...",
+        "output": "Thế nên chúng tôi miền nam Zambia với những hạt giống từ nước Ý tại một thung lũng tuyệt đẹp trải dài xuống sông Zambezi , và chúng tôi dạy cho người dân bản đại trồng cà chua Ý và bí ngòi Ý và .."
+    },
+    {
+        "instruction": "What is the Vietnamese translation for",
+        "input": "I see wheelchairs bought and sold like used cars .",
+        "output": "Tôi nhìn thấy xe lăn được mua bán giống như xe cũ vậy ."
+    },
+    {
+        "instruction": "What is the Vietnamese translation for",
+        "input": "Every 20 minutes , I 'd have to run back to our cruiser to clean out my gear and run it under an air conditioner to revive it , and as I sat there , I thought , my camera is getting far better treatment than these people .",
+        "output": "Cứ 20 phút , tôi phải chạy trở lại xe dã chiến để lau thiết bị và để chúng hoạt động dưới điều hoà nhiệt độ phục hồi chúng , và khi ngồi đó , Tôi nghĩ , cái camera của mình còn được đối xử tốt hơn nhiều những người kia ."
+    },
+    {
+        "instruction": "Translate the following sentence into English",
+        "input": "Tôi , cùng hàng trăm tình nguyện viên hiểu rằng không thể chỉ ngồi yên tại nhà , nên tôi quyết định gia nhập cùng với họ trong suốt ba tuần .",
+        "output": "I , along with hundreds of other volunteers , knew we couldn 't just sit at home , so I decided to join them for three weeks ."
+    },
+    {
+        "instruction": "What is the Vietnamese translation for",
+        "input": "As my team leader Wynne once said , it 's like doing a tattoo on someone .",
+        "output": "Trưởng nhóm Wynne của tôi từng nói : Nó cũng giống như xăm cho ai đó ."
+    },
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "From the sound , we can actually track the vocal fold position as it vibrates , and just as the limbs are affected in Parkinson 's , so too are the vocal organs .",
+        "output": "Từ âm thanh , chúng ta thực sự có thể theo dấu vị trí dây thanh quản khi rung , Khi các chi bị ảnh hưởng bởi Parkinson , Các cơ quan âm thanh cũng bị thế"
+    },
+    {
+        "instruction": "Dịch câu sau sang tiếng Việt",
+        "input": "I remember this time , there was this mother and a daughter came , it was , like , 10 : 30 at night , and they were in my yard , and I came out and they looked so ashamed .",
+        "output": "Tôi nhớ có một lần , có một người mẹ và con gái tới , lúc đó là khoảng 10 : 30 tối và họ ở trong vườn của tôi. rồi tôi đi ra ngoài và họ rất xấu hổ ."
+    },
+    {
+        "instruction": "Dịch câu sau sang tiếng Anh",
+        "input": "Và trong năm 1860 , nhóm người ngày tụ họp lại , và phỏng đoán về điều sẻ xảy ra cho thành phố New York trong vòng 100 năm tới , và kết luận được nhất trí như sau : Thành phố New York sẽ không còn tồn tại trong vòng 100 năm tới .",
+        "output": "And in 1860 , this group of people came together , and they all speculated about what would happen to the city of New York in 100 years , and the conclusion was unanimous : The city of New York would not exist in 100 years ."
+    },
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "The speech actually becomes quieter and more breathy after a while , and that 's one of the example symptoms of it .",
+        "output": "Lời nói trở nên trầm lắng hơn và nhiều giọng gió hơn sau một thời gian , và đó là một trong các triệu chứng ví dụ về nó ."
+    },
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "So a microwave is a similar system .",
+        "output": "Lò vi sóng cũng có hệ thống hoạt động tương tự ."
+    },
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "Am I South Korean or North Korean ?",
+        "output": "Tôi là người Nam Triều Tiên hay Bắc Triều Tiên ?"
+    },
+    {
+        "instruction": "Dịch câu sau sang tiếng Việt",
+        "input": "We might produce the next George Washington Carver .",
+        "output": "Có thể ta sẽ sản sinh ra George Washington Carver tiếp theo ."
+    },
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "These girls were so lucky .",
+        "output": "những cô gái này đã rất may mắn ."
+    },
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "Today 's slavery is about commerce , so the goods that enslaved people produce have value , but the people producing them are disposable .",
+        "output": "Nô lệ ngày nay phục vụ cho thương mại , hàng hoá mà người nô lệ tạo ra có giá trị , nhưng người tạo ra chúng bị coi như phế thải ."
+    },
+    {
+        "instruction": "Dịch câu sau sang tiếng Anh",
+        "input": "Đầu tiên tôi nhìn nó , và nói , được rồi . Nó là một file dữ liệu lớn . Tốt .",
+        "output": "At first I saw it , and I said , okay , it 's a huge file . Okay ."
+    },
+    {
+        "instruction": "Dịch câu sau sang tiếng Việt",
+        "input": "But my educated mother became a teacher .",
+        "output": "Nhưng người mẹ có giáo dục của tôi trở thành giáo viên ."
+    },
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "And I was distraught .",
+        "output": "Tôi đã rất sầu não ."
+    },
+    {
+        "instruction": "What is the Vietnamese translation for",
+        "input": "If we can make this material self-healing , then probably we have a solution .",
+        "output": "Nếu chúng tôi tạo ra được vật liệu tự hàn gắn này , thì chúng tôi có thể tìm ra giải pháp ."
+    },
+    {
+        "instruction": "Dịch câu sau sang tiếng Anh",
+        "input": "Công viên Quốc gia Nairobi không được rào chắn trên diện rộng ở khu vực phía Nam , điều đó có nghĩa là các động vật hoang dã như ngựa vằn thoát ra khỏi công viên một cách tự do .",
+        "output": "Nairobi National Park is not fenced in the south widely , which means wild animals like zebras migrate out of the park freely ."
+    },
+    {
+        "instruction": "Translate the following sentence into English",
+        "input": "Bạn có thể thấy từng bước đi của tôi .",
+        "output": "You can see every step I take ."
+    },
+    {
+        "instruction": "Translate the following sentence into English:",
+        "input": "Vừa kịp lúc để cứu người Zambia khỏi nạn đói .",
+        "output": "Just in the nick of time to save the Zambian people from starvation . "
+    },
+    {
+        "instruction": "What is the Vietnamese translation for",
+        "input": "Thank you very much .",
+        "output": "Cảm ơn rất nhiều "
+    },
+    {
+        "instruction": "Dịch câu sau sang tiếng Anh:",
+        "input": "Tôi nghe tiếng nói , nhưng gần như cả hầm là sự pha trộn của tiếng ho và tiếng đá bị đập vỡ bằng những công cụ thô sơ .",
+        "output": "I hear voices talking , but mostly the shaft is this cacophony of men coughing , and stone being broken with primitive tools ."
+    },
+    {
+        "instruction": "What is the English translation for",
+        "input": "Chúng tôi có những quả cà chua rất tuyệt vời . Tại Ý , một quả cà chua chỉ to khoảng bằng này . Tại Zambia , nó to tới cỡ này này .",
+        "output": "We had these magnificent tomatoes . In Italy , a tomato would grow to this size . In Zambia , to this size ."
+    },
+    {
+        "instruction": "Translate the following sentence into English",
+        "input": "Nguyên nhân là do mùa hè năm 2006 , Uỷ ban châu Âu đã đề xuất một chỉ thị chính thức .",
+        "output": "Because in the summer of 2006 , the E.U. Commission tabled a directive ."
+    },
+    {
+        "instruction": "Dịch câu sau sang tiếng Anh",
+        "input": "chứ không bao giờ tôi có thể tưởng tượng rằng tôi sẽ phải xa họ những 14 năm ròng .",
+        "output": "I could have never imagined that it would take 14 years to live together . "
+    },
+    {
+        "instruction": "Translate the following sentence into English:",
+        "input": "Bởi vì tôi có thể thấy những nơi tôi đã đến đó , nơi tôi ngủ mỗi đêm , những việc tôi đã làm .",
+        "output": "Because you can see where I am , where I sleep at night , what I am doing ."
+    },
+    {
+        "instruction": "Translate the following sentence into English:",
+        "input": "Và nếu như vậy , thì có lẽ sự sụp đổ của Bức màn sắt trong Chiến tranh lạnh cũng sẽ không tồn tại .",
+        "output": "And in the aftermath , also not the fall of the Iron Curtain ."
+    },
+    {
+        "instruction": "What is the English translation for ",
+        "input": "Trong thời gian này , chúng tôi đã không chi quá một ngàn đô la cho thiết bị và vật liệu , Hầu hết chi phí là cho mực máy in .",
+        "output": "During this time , we hadn 't really spent more than about a thousand dollars in equipment and materials , most of which was printer inks ."
+    },
+    {
+        "instruction": "Translate the following sentence into English",
+        "input": "Câu hỏi kế tiếp mà tôi được nhiều người hỏi là :  Bạn được cho miễn phí cái gì không ? ",
+        "output": "Okay , so the next question people always ask me is ,  Do you get free stuff ?"
+    },
+    {
+        "instruction": "Translate the following sentence into English",
+        "input": "Trước khi tôi chết , tôi muốn sống ngoài khuôn phép",
+        "output": "Before I die , I want to live off the grid "
+    },
+    {
+        "instruction": "Translate the following sentence into Vietnamese",
+        "input": "Five days later , the ten bruises on my neck had just faded , and I put on my mother 's wedding dress , and I married him .",
+        "output": "Năm ngày sau , mười vết bầm trên cổ tôi đã hiện lên rõ , và tôi mặc chiếc váy cưới của mẹ tôi , và kết hôn với anh ta ."
+    },
+    {
+        "instruction": "What is the English translation for",
+        "input": "Rất nhiều . Ngày nay , phần lớn chúng ta đều có một chiếc điện thoại di động .",
+        "output": "That 's a lot . Almost everybody today has a mobile phone ."
+    }
+]
