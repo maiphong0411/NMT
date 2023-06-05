@@ -323,7 +323,7 @@ if __name__ == "__main__":
 
     backend = "nccl"
     # model_path = 'bigscience/bloom-1b7'
-    model_path = "phongmt184172/mbart_2"
+    model_path = "facebook/bart-base"
     if os.environ.get("DEBUG"):
         data_path = 'test_set.json'
     else:
