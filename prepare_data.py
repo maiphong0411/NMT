@@ -55,5 +55,7 @@ def create_datasets(data_path, size_valid_set, tokenizer, max_length, seed):
     valid_data = valid_data.remove_columns(['instruction', 'input', 'output'])
 
     dataset["test"].to_json('dataset/val_data.json')
-    
+    print("length of train data ", len(train_data))
+    print("length of valid data ", len(valid_data))
+
     return train_data, valid_data
